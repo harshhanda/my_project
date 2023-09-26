@@ -9,6 +9,7 @@
           <img src="{{asset('/uploads/sliders/'.$item->image)}}" alt="">
         </div>
       @endforeach
+      
     </div>
 
     <div class="container">
